@@ -67,14 +67,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer Intern** and 
 
 ---
 
-## 🚀 **Projects**
-
-- **[MovieLab](https://github.com/LahiruNanayakkara/MovieLab)**: A movie listing mobile app built with React Native and TMDB API.
-- **[Lahiru's Blog](https://github.com/LahiruNanayakkara/mern-blog)**: A responsive MERN stack blog app with an admin dashboard.
-- **[Bodima](https://github.com/Bodima-Boarding-Places-Tracking-System)**: A platform for finding and reviewing boarding places near universities.
-
----
-
 ## 🌐 **Connect With Me**
 
 - **LinkedIn**: [Lahiru L. Nanayakkara](https://www.linkedin.com/in/lahiru-l-nanayakkara)
